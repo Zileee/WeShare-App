@@ -1,4 +1,8 @@
 # WeShare
+Team Members:
+Climentine Kubheka == climentinep@gmail.com
+Lehlogonolo Mawasha == lemawas022@student.wethinkcode.co.za
+Thembelihle Nxube == Thnxube022@student.wethinkcode.co.za
 
 *A simple peer-to-peer payment platform for requesting, tracking, and processing payments between users.*
 
