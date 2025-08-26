@@ -57,7 +57,7 @@ flowchart TD
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/weshare.git
+git clone https://github.com/Zileee/weshare.git
 
 # Navigate into the project
 cd weshare
@@ -66,7 +66,7 @@ cd weshare
 npm install   # or pip install -r requirements.txt
 
 # Run the app
-npm start     # or flutter run
+npm start     
 ```
 
 ## Contributing
